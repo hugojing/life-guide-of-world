@@ -2,13 +2,16 @@
 
 * [👋 前言](README.md)
 
-## About us
+## 🇨🇳 国内
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🚀 内地](guo-nei/nei-di/README.md)
+  * [Vision](guo-nei/nei-di/vision.md)
+  * [Mission](guo-nei/nei-di/mission.md)
+  * [Focus](guo-nei/nei-di/focus.md)
+* [💖 东北亚的一部分](guo-nei/dong-bei-ya-de-yi-bu-fen.md)
+* [💖 中亚的一部分](guo-nei/zhong-ya-de-yi-bu-fen.md)
+* [💖 东南亚的一部分](guo-nei/dong-nan-ya-de-yi-bu-fen.md)
+* [💖 港澳台](guo-nei/gang-ao-tai.md)
 
 ## Team
 

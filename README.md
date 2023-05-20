@@ -12,7 +12,7 @@ coverY: 0
 
 TODO：
 
-* ​[你的国家](https://app.gitbook.com/o/7DVxG9D0Fn82sp8SIzL4/s/29jOhTycKG1s4fsW9nIv/\~/changes/4/guo-nei/\~/details)​
+* ​[你的国家](broken-reference)​
 * 人均经济水平
 * 周围
 * 工作与工作观
