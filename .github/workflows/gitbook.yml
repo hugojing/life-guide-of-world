@@ -36,7 +36,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install gitbook
-      - run: npm install -g gitbook-cli
+        run: npm install -g gitbook-cli
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
