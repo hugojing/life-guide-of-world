@@ -1,37 +1,17 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
-coverY: 0
----
+# 人间生活指南
 
-# 👋 前言
-
-{% hint style="info" %}
 内容随意，毫无章法。旨在开阔你的眼界，帮你认识所处的世界，为你的这次人生提供参考信息。
-{% endhint %}
 
-TODO：
+## 电子书下载
 
-* ​[你的国家](broken-reference)​
-* 人均经济水平
-* 周围
-* 工作与工作观
-* 母语与外语
-* 城市与卫星城
-* 学历
-* 国内的大城市与其他地方
-* 其他国家与地区
-* 创业
-* 流浪
-* 隐居
-* 宗教
-* 住或房子
-* 行或交通工具
-* 衣
-* 食
-* 旅游
-* 健康与运动
-* 投资
-* 社交与朋友
-* 恋爱
-* ...
+暂无
+
+## 在线阅读
+
+- [GitBook](https://jzx.gitbook.io/life-guide-of-world/)
+
+- [GitHub](https://github.com/hugojing/life-guide-of-world)
+
+- [GitHub Pages](https://hugojing.github.io/life-guide-of-world/)
+
+- [飞书](https://cbikpoud9j.feishu.cn/wiki/wikcnCdx0jjo40cHJuk44dA9u5e)
