@@ -35,6 +35,7 @@ jobs:
         id: detect-package-manager
         run: |
           wget -qO- https://get.pnpm.io/install.sh | ENV="$HOME/.shrc" SHELL="$(which sh)" sh -
+          source /home/runner/.shrc
           echo "manager=pnpm" >> $GITHUB_OUTPUT
           echo "command=install" >> $GITHUB_OUTPUT
           exit 0
